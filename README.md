@@ -16,6 +16,6 @@ The breakdown for the group project grade is the following:
 	Development Approach: 10%
 	UML Diagram: 20%
 	Java Docs: 10%
-Code:  20%
+	Code:  20%
 
-	Presentations will take place (tentatively) on Thursday, December 8. Everyone should be prepared to present for a minimum of eight minutes and a maximum of fifteen minutes.
+Presentations will take place (tentatively) on Thursday, December 8. Everyone should be prepared to present for a minimum of eight minutes and a maximum of fifteen minutes.
